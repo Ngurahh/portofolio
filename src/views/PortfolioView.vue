@@ -18,7 +18,7 @@ export default {
           name: 'Bumdesma',
           imageUrl: 'bumdesma',
           status: 'a web application used by village-owned enterprises at the sub-district level to make it easier for them in terms of accounting that is equipped with a microfinance balance.',
-          tech: 'Laravel 8, Bootstrap',
+          tech: 'Laravel 9, Bootstrap',
           github: 'null',
           demo: 'null'
         },
@@ -116,7 +116,6 @@ svg:hover{
   }
 }
 
-/* Menggunakan animasi pada elemen yang diinginkan */
 .fade-zoom-in {
   animation: fadeZoomIn 1s ease-in-out;
 }
